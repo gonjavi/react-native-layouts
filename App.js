@@ -25,7 +25,8 @@ const styles = StyleSheet.create({
   contenedor: {
     backgroundColor: 'cornflowerblue',
     flex: 1,
-    flexDirection: 'row'
+    flexDirection: 'row',
+    justifyContent: 'center',
   },
   caja1: {
     padding: 20,
